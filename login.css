@@ -1,0 +1,38 @@
+body{
+    background-color:#5D8FC9;
+}
+h1{
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 220px;
+  
+    text-align: center;
+    color: rgb(43, 24, 2);
+   
+    
+}
+
+div{
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 5px;
+    border: 2px solid whitesmoke;
+    width: 300px;
+    height: fit-content;
+    background-color: wheat;
+    border-radius: 20px;
+    text-align: center;
+    display: block;
+   
+}
+input[type=text] , input[type=password]
+{
+    margin: 0 auto;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    border: 2px solid blueviolet;
+    width: 150px;
+    height: 15px;
+
+
+}
